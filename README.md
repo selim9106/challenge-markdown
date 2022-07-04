@@ -25,14 +25,11 @@
 - Sport
 - Friends
 - Party
-<br>
-</br>
-### You can always count on me to...
-ask you some questions about code when I feel lost. I apologize for that by the way. Hope I won't need you very soon.
-<br>
-</br>
-## A funny story
 
+### You can always count on me to...
+ask you some questions about code when I feel lost. I apologize for that by the way. Hope I won't need you very soon.  
+
+## A funny Story
 Two little bears peeped out of their cave. Winter was over and they could smell the fresh spring air. It was time to get up and play after their long sleep.
 
 “Let’s run under the trees,” said Ben.
@@ -88,7 +85,7 @@ The little bears took a few more steps out of the cave and happily mother bear f
 
 Three happy bears skipped into the forest to enjoy the spring and have fun together.
 
-### I didn't read the story, jost copy and past it.
+### I didn't read the story, jost copied and past it.
 <br>
 </br>
 
